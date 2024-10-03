@@ -1,0 +1,13 @@
+Criando Jogo da velha
+primeiro criar array 3x3 que receba string
+3 linhas e 3 colunas
+exemplo:
+    C1    C1    C3
+L1 [0,0] [0,1] [0,2]
+L2 [1,0] [1,1] [1,2]
+L3 [2,0] [2,1] [2,2]
+
+depois crie uma variável do tipo inteiro para começar a receber o valor digitado pelo o usuário.
+exemplo:
+int x = valor digitado pelo o usuário.
+
